@@ -1,0 +1,24 @@
+{
+  "name": "productsapp",
+  "version": "1.0.0",
+  "description": "Nestledtime API Node V-1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "testapi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chitrasen1984/nodejs.git"
+  },
+  "author": "Chitrasen Prabvakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chitrasen1984/nodejs/issues"
+  },
+  "homepage": "https://github.com/Chitrasen1984/nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6"
+  }
+}
